@@ -1,0 +1,18 @@
+título (title)
+sessões (section)
+fonte de titulo (h1, h2)
+tag de navegação - menu (nav)
+marcadores - permite a inserção de itens (ul)
+iten inserido do menu (li)
+paragrafo (p)
+hyperlink (a)
+divisão, adequado por exemplo quando for colocar imagens (div)
+rodapé (footer)
+id e classes (id / class)
+
+css
+tamanho da fonte (font-size)
+cor de fundo (background)
+margens (margin-*)
+cores (color)
+tamanho (width)

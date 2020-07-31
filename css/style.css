@@ -1,0 +1,35 @@
+body {
+    background: #B5B5B5;
+    margin-left: 20px;
+    margin-right: 300px;
+}
+
+header {
+    margin-top: 40px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: red;
+    font-family: cursive;
+}
+
+p {
+    font-size: 18px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 100px;
+}
+
+.logo {
+    width: 30px;
+}
+
+img {
+    margin-bottom: 0px;
+}
